@@ -1,0 +1,14 @@
+{
+	"dbconf":{
+		"driver":"mysql",
+		"dbname":"mydb",
+		"dbhost":"localhost",
+		"dbuser":"admin",
+		"dbpass":"admin"
+	},
+	"app":{
+		"title":"M",
+		"version":"0.1"
+	}
+
+}
